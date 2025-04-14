@@ -36,26 +36,3 @@ This is a front-end web project focused on supporting mental well-being through 
 202211466 Ahmed Al Sayyed
 
 ---
-
-## 📁 Folder Structure
-
-Mood Tracker And Journaling/
-│
-├── index.html               --> Home Page
-├── about.html               --> About Us
-├── mood-tracker.html        --> Mood Tracking Page
-├── journal.html             --> Journaling Page
-├── self-help.html           --> Self-Help Tools & Activities
-├── resources.html           --> Mental Health Resources
-├── success-stories.html     --> Success Stories & Testimonials
-├── contact.html             --> Contact & Emergency Help Page
-│
-├── css/
-│   └── styles.css           --> External CSS File
-│
-├── images/                  --> Images folder
-│   └── (logo.png, banner.jpg, etc.)
-│
-├── js/                      --> JavaScript files
-│   └── mood.js              --> Script for Mood Tracker functionality
-│   └── journal.js           --> Script for Journal functionality
