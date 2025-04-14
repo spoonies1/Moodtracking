@@ -4,7 +4,7 @@ This is a front-end web project focused on supporting mental well-being through 
 
 ---
 
-## 🧠 Project Features
+## Project Features
 
 - **Home Page** – Welcome message and overview.
 - **About Us** – Learn more about the purpose of the site.
@@ -17,7 +17,7 @@ This is a front-end web project focused on supporting mental well-being through 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -25,7 +25,7 @@ This is a front-end web project focused on supporting mental well-being through 
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 🔧 *Work in progress*
 
